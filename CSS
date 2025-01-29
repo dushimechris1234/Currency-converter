@@ -1,0 +1,18 @@
+#!/bin/bash
+body {
+  width: 400px;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+.table {
+  border: 2px solid;
+  padding: 20px;
+}
+button {
+  background-color: green;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+}
