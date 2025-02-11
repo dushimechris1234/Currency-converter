@@ -1,4 +1,3 @@
-#!/bin/bash/node
 document.addEventListener("DOMContentLoaded", function () {
   const converts = {
     USD: 1,
